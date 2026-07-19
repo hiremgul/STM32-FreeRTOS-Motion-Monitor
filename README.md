@@ -1,4 +1,4 @@
-# STM32 FreeRTOS Motion Monitor
+STM32 FreeRTOS Motion Monitor
 
 STM32F407 tabanlı, FreeRTOS kullanan hareket algılama ve veri kayıt projesidir.
 
