@@ -1,0 +1,22 @@
+# STM32CubeIDE derleme çıktıları
+Debug/
+Release/
+build/
+
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.o
+*.d
+
+# Python geçici dosyaları
+Python/__pycache__/
+Python/*.pyc
+Python/.venv/
+Python/flash_log.csv
+
+# Sistem dosyaları
+Thumbs.db
+.DS_Store
